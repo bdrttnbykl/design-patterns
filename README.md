@@ -1,32 +1,30 @@
 # Design Patterns
 
-Bu repo, yazılım geliştirmede kullanılan temel **design pattern (tasarım kalıpları)** örneklerini içermektedir.
+This repository contains examples of fundamental **design patterns** used in software development.
 
-## 📌 İçerik
+## 📌 Contents
 
 * Creational Patterns
 * Structural Patterns
 * Behavioral Patterns
 
-## 🛠️ Amaç
+## 🛠️ Purpose
 
-Bu projenin amacı:
+The purpose of this project is to:
 
-* Design pattern'leri öğrenmek
-* Temel örnekler üzerinden mantığını kavramak
-* Temiz ve sürdürülebilir kod yazmayı geliştirmek
+* Learn design patterns
+* Understand their logic through basic examples
+* Improve writing clean and maintainable code
 
-## 🚧 Durum
+## 🚧 Status
 
-Bu proje tamamlanmış bir çalışma değildir.
-Zamanla **basic seviyede kod örnekleri eklenerek öğrenme amacıyla geliştirilmektedir** ve **geliştirilmeye devam edecektir.**
+This is not a completed project.
+It is being developed over time with **basic-level code examples for learning purposes** and will **continue to be improved.**
 
-## 🚀 Kullanım
+## 🚀 Usage
 
-Projeyi klonlayarak inceleyebilirsiniz:
+You can clone the project and explore it:
 
 ```bash
-git clone https://github.com/bdrttnbykl/design-patterns.git 
-
-
+git clone https://github.com/bdrttnbykl/design-patterns.git
 ```
